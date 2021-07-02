@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957038013174",
+    "project_id": "myspy-21a13",
+    "storage_bucket": "myspy-21a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957038013174:android:aa1f861c1ecbedd7295ad7",
+        "android_client_info": {
+          "package_name": "com.example.spyjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957038013174-blq3blbsad8i73elbbq7kp412unkbosk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_shNjqD2CKMnDhWmGV6KTVf07NCn4dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957038013174-blq3blbsad8i73elbbq7kp412unkbosk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
